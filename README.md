@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">learning how to be a developer from South Africa</h3>
 
 - 🌱 I’m currently learning **JS**
 
